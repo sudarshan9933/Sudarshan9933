@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C/C++,HTML And CSS,javaScript And React**
 
-- 📫 How to reach me **sudarshantripathi00@gmail.com**
+- 📫 How to reach me **https://sudarshan00.netlify.app/**
 
 - ⚡ Fun fact **I think I want to learn more and more**
 
