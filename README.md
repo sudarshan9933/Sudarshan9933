@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sudarshan A Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flash993&label=Profile%20views&color=0e75b6&style=flat" alt="flash993" /> </p>
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Python Project]
 
-- 🌱 I’m currently learning **Python Advance And MERN Stack**
+- 🌱 I’m currently learning **Python And React**
 
-- 👯 I’m looking to collaborate on **Google Projects**
+- 👯 I’m looking to collaborate on **open-source projects related to web development and coding**
 
-- 💬 Ask me about **C/C++, HTML And CSS, Tailwind And Bootstrap, javaScript, ReactJS, PHP And MySQL**
+- 💬 Ask me about **javaScript and Python**
 
-- 📫 How to reach me **https://sudarshan00.netlify.app/**
+- 📫 How to reach me **sudarshantripathi00@gmail.com**
 
 - ⚡ Fun fact **I enjoy collaborating on open-source projects to contribute and learn from the community.Let's build something amazing together! 🚀🤝**
 
