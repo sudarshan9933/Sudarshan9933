@@ -32,3 +32,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flash993&show_icons=true&locale=en&layout=compact" alt="flash993" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flash993&show_icons=true&locale=en" alt="flash993" /></p>
+
+## 🌐 Web Development Projects 
+
+| Project List | Topic | Languages/Tool Details |
+| :--- | :---: | :---: |
+| [**🔗 PORTFOLIO**](https://sudarshan00.netlify.app/) | Website | HTML & CSS & JavaScript |
+| [**🔗 TRAVELWEBSITE**](https://travelgaze00.netlify.app/)| Website | HTML,CSS,JavaScript and PHP |
+| [**🔗 RESUMEBUILD**](https://createcvv.netlify.app/) | Website | React.js |
+| [**🔗 NEWSAPP**](https://github.com/sudarshan9933/WorldwideKhabar) | Website | JavaScript API + BootStrap |
+| [**🔗 LANDINGPAGE**](https://teethcare00.netlify.app/) | Website | Frontend Static Website |
