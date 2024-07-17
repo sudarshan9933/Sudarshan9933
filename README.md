@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flash993" alt="flash993" /></a> </p>
 
-- 🔭 I’m currently working on [Travel Planning Website](https://travelgaze00.netlify.app/)
+- 🔭 I’m currently working on [Python Project]
 
 - 🌱 I’m currently learning **Python Advance And MERN Stack**
 
 - 👯 I’m looking to collaborate on **Google Projects**
 
-- 💬 Ask me about **C/C++,HTML And CSS,javaScript And React**
+- 💬 Ask me about **C/C++, HTML And CSS, Tailwind And Bootstrap, javaScript, ReactJS, PHP And MySQL**
 
 - 📫 How to reach me **https://sudarshan00.netlify.app/**
 
-- ⚡ Fun fact **I think I want to learn more and more**
+- ⚡ Fun fact **I enjoy collaborating on open-source projects to contribute and learn from the community.Let's build something amazing together! 🚀🤝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
