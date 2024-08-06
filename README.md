@@ -73,6 +73,7 @@
 | :--- | :---: | :---: |
 | [**🔗 PORTFOLIO**](https://sudarshan00.netlify.app/) | Website | HTML & CSS & JavaScript |
 | [**🔗 TRAVELWEBSITE**](https://travelgaze00.netlify.app/)| Website | HTML,CSS,JavaScript and PHP |
-| [**🔗 RESUMEBUILD**](https://createcvv.netlify.app/) | Website | React.js |
-| [**🔗 NEWSAPP**](https://github.com/sudarshan9933/WorldwideKhabar) | Website | JavaScript API + BootStrap |
+| [**🔗 RESUMEBUILD**](https://createcvv.netlify.app/) | Website | React.js + JavaScript |
+| [**🔗 NEWSAPIWEBSITE**](https://github.com/sudarshan9933/news-api) | Website | JavaScript API + BootStrap + Tailwind |
 | [**🔗 LANDINGPAGE**](https://teethcare00.netlify.app/) | Website | Frontend Static Website |
+| [**🔗 INVOICEMAKER**](https://invoicebuild.netlify.app/) | Website | React.JS, Tailwind, Jsx |
